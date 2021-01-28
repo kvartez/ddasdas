@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 							ruzer = true;
 							
 						}
-						iter = iter_;
+						iter = iter_+1;
 					}
 					
 				}else{
